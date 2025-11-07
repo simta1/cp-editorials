@@ -72,7 +72,19 @@
     margin: 8px 0;
     padding: 10px 14px;
     border-radius: 10px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    transition: 
+      border-color 0.15s ease,
+      border-width 0.15s ease,
+      box-shadow 0.15s ease,
+      transform 0.15s ease;
+  }
+  li:hover {
+    border-color: #3b82f6;
+    border-width: 1px;
+    box-shadow: 0 3px 8px rgba(59,130,246,0.25);
+    transform: translateY(-2px);
   }
   a {
     text-decoration: none;
