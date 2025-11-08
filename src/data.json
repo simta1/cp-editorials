@@ -1,5 +1,61 @@
 [
   {
+    "name": "CERC(Central European Regional Contest) 1998",
+    "link": "https://contest.felk.cvut.cz/98cerc/"
+  },
+  {
+    "name": "CERC(Central European Regional Contest) 1999",
+    "link": "https://contest.felk.cvut.cz/99cerc/"
+  },
+  {
+    "name": "CERC(Central European Regional Contest) 2000",
+    "link": "https://contest.felk.cvut.cz/00cerc/solved/index.html"
+  },
+  {
+    "name": "CERC(Central European Regional Contest) 2007",
+    "link": "https://contest.felk.cvut.cz/07cerc/solved.html"
+  },
+  {
+    "name": "CERC(Central European Regional Contest) 2008",
+    "link": "http://cepc08.ii.uni.wroc.pl/problems.html"
+  },
+  {
+    "name": "CERC(Central European Regional Contest) 2009",
+    "link": "http://cepc09.ii.uni.wroc.pl/problems.html"
+  },
+  {
+    "name": "CERC(Central European Regional Contest) 2010",
+    "link": "http://cerc10.ii.uni.wroc.pl/solutions.html"
+  },
+  {
+    "name": "CERC(Central European Regional Contest) 2011",
+    "link": "https://contest.felk.cvut.cz/11cerc/contest.html"
+  },
+  {
+    "name": "CERC(Central European Regional Contest) 2012",
+    "link": "https://cerc.tcs.uj.edu.pl/2012/data.html"
+  },
+  {
+    "name": "CERC(Central European Regional Contest) 2013",
+    "link": "https://cerc.tcs.uj.edu.pl/2013/data.html"
+  },
+  {
+    "name": "CERC(Central European Regional Contest) 2014",
+    "link": "https://cerc.tcs.uj.edu.pl/2014/data.html"
+  },
+  {
+    "name": "CERC(Central European Regional Contest) 2015",
+    "link": "https://cerc.hsin.hr/2015/index.php?page=contest_data"
+  },
+  {
+    "name": "CERC(Central European Regional Contest) 2016",
+    "link": "https://cerc.hsin.hr/2016/index.php?page=contest_data"
+  },
+  {
+    "name": "CERC(Central European Regional Contest) 2017",
+    "link": "https://cerc.hsin.hr/index.php?page=contest_data"
+  },
+  {
     "name": "COCI(Croatian Open Competition in Informatics) 2006/2007",
     "link": "https://hsin.hr/coci/archive/2006_2007/"
   },
@@ -80,59 +136,70 @@
     "link": "https://hsin.hr/coci/archive/2023_2024/"
   },
   {
-    "name": "CERC(Central European Regional Contest) 1998",
-    "link": "https://contest.felk.cvut.cz/98cerc/"
+    "name": "2014 KAIST 4th ICPC Mock Competition",
+    "link": "https://drive.google.com/file/d/1fPT8uDtl2YMdkHxYaz-M40AQNZZK4GGA/view"
   },
   {
-    "name": "CERC(Central European Regional Contest) 1999",
-    "link": "https://contest.felk.cvut.cz/99cerc/"
+    "name": "2017 KAIST RUN Spring Contest(HYEA Cup)",
+	"link": [
+		{ "label": "English", "url": "https://drive.google.com/file/d/1N7GuLhgmu9-Y-pCu8xZnfkaaQ2rz4xSA/view" },
+		{ "label": "Ko", "url": "https://drive.google.com/file/d/1LQHJGEMbelK-IBbI30rlpkPqTxz4oAo_/view" }
+	]
   },
   {
-    "name": "CERC(Central European Regional Contest) 2000",
-    "link": "https://contest.felk.cvut.cz/00cerc/solved/index.html"
+    "name": "2017 KAIST 7th ICPC Mock Competition",
+    "link": "https://drive.google.com/file/d/1U7IzHUzUShbHYugZtGYD6ZAhwmWR77Ee/view"
   },
   {
-    "name": "CERC(Central European Regional Contest) 2007",
-    "link": "https://contest.felk.cvut.cz/07cerc/solved.html"
+    "name": "2018 KAIST RUN Spring Contest",
+    "link": "https://drive.google.com/file/d/17Sgx0VODLTdrfQhIQrAf5kHWiiwG--Q2/view"
   },
   {
-    "name": "CERC(Central European Regional Contest) 2008",
-    "link": "http://cepc08.ii.uni.wroc.pl/problems.html"
+    "name": "2018 KAIST 8th ICPC Mock Competition",
+    "link": "https://drive.google.com/file/d/1z2TF6Mpeg_yMLoa2meeU_91TrhGDQCk5/view"
   },
   {
-    "name": "CERC(Central European Regional Contest) 2009",
-    "link": "http://cepc09.ii.uni.wroc.pl/problems.html"
+    "name": "2019 KAIST RUN Spring Contest",
+    "link": "https://kaist.run/contest/2019-spring/solution.pdf"
   },
   {
-    "name": "CERC(Central European Regional Contest) 2010",
-    "link": "http://cerc10.ii.uni.wroc.pl/solutions.html"
+    "name": "2019 KAIST 9th ICPC Mock Competition",
+    "link": "https://kaist.run/contest/2019-fall/solution.pdf"
   },
   {
-    "name": "CERC(Central European Regional Contest) 2011",
-    "link": "https://contest.felk.cvut.cz/11cerc/contest.html"
+    "name": "2020 KAIST 10th ICPC Mock Competition",
+    "link": "https://kaist.run/contest/2020-fall/solution.pdf"
   },
   {
-    "name": "CERC(Central European Regional Contest) 2012",
-    "link": "https://cerc.tcs.uj.edu.pl/2012/data.html"
+    "name": "2021 KAIST RUN Spring Contest",
+    "link": "https://kaist.run/contest/2021-spring/solution.pdf"
   },
   {
-    "name": "CERC(Central European Regional Contest) 2013",
-    "link": "https://cerc.tcs.uj.edu.pl/2013/data.html"
+    "name": "2021 KAIST 11th ICPC Mock Competition",
+    "link": "https://kaist.run/contest/2021-fall/solution.pdf"
   },
   {
-    "name": "CERC(Central European Regional Contest) 2014",
-    "link": "https://cerc.tcs.uj.edu.pl/2014/data.html"
+    "name": "2022 KAIST RUN Spring Contest",
+    "link": "https://kaist.run/contest/2022-spring/solution.pdf"
   },
   {
-    "name": "CERC(Central European Regional Contest) 2015",
-    "link": "https://cerc.hsin.hr/2015/index.php?page=contest_data"
+    "name": "2022 KAIST 12th ICPC Mock Competition",
+    "link": "https://kaist.run/contest/2022-fall/solution.pdf"
   },
   {
-    "name": "CERC(Central European Regional Contest) 2016",
-    "link": "https://cerc.hsin.hr/2016/index.php?page=contest_data"
+    "name": "2023 KAIST RUN Spring Contest",
+    "link": "https://kaist.run/contest/2023-spring/editorial.pdf"
   },
   {
-    "name": "CERC(Central European Regional Contest) 2017",
-    "link": "https://cerc.hsin.hr/index.php?page=contest_data"
+    "name": "2023 KAIST 13th ICPC Mock Competition",
+    "link": "https://u.acmicpc.net/c55549f6-ca01-4ecc-9d98-c3e82181d645/2023_KAIST_13th_ICPC_Mock_Competition_editorial.pdf"
+  },
+  {
+    "name": "2024 KAIST RUN Spring Contest",
+    "link": "https://kaist.run/contest/2024-spring/editorial.pdf"
+  },
+  {
+    "name": "2024 KAIST 14th ICPC Mock Competition",
+    "link": "https://kaist.run/contest/2024-fall/editorial.pdf"
   }
 ]
